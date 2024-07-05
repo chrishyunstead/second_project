@@ -1,4 +1,4 @@
-# second_project (팀 프로젝트)
+# Second_Project (팀 프로젝트)
 
 ![image](OOF_배경화면.jpg)
 
